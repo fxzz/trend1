@@ -1,6 +1,6 @@
-# TREND | <a href="https://www.google.co.kr/" target="_blank">급상승 검색어</a>
+# TREND | <a href="https://chuup.xyz" target="_blank">급상승 검색어</a>
  
-오늘은 어떤 이슈가 사회적으로 논란되고 있는지 알고 싶나요? <a href="https://www.google.co.kr/" target="_blank">급상승 검색어</a>는 현재 인기 있는 주제를 보여줍니다.
+오늘은 어떤 이슈가 사회적으로 논란되고 있는지 알고 싶나요? <a href="https://chuup.xyz" target="_blank">급상승 검색어</a>는 현재 인기 있는 주제를 보여줍니다.
 
 
 | 메인 | 
@@ -24,7 +24,8 @@
 <li>Java 17, Spring Boot 3.1, MyBatis, Mysql</li>
 <li>Python 3.1</li>
 
-![1](https://github.com/fxzz/trend/assets/3148006/fa34947c-e1fb-4a65-a9f4-ea72e4af4700)
+![1](https://github.com/fxzz/trend/assets/3148006/1d1b2200-e186-4055-8b05-27426eef1109)
+
 
 
 
